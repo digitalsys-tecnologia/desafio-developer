@@ -67,6 +67,7 @@ Crie um arquivo chamado `ARCHITECTURE.md` na raiz do projeto. Ele deve conter:
 * **Decisões de Design:** Por que escolheu essas ferramentas/bibliotecas específicas?
 * **Escalabilidade:** Se a Federação crescer para 1 milhão de usuários, onde o sistema falharia primeiro? O que mudaria na arquitetura?
 * **Atomic Design:** Como essa estrutura ajudou na organização visual?
+* **IA:** Você utilizou alguma ferramenta de IA? caso tenha usado, como conseguiu usa-lá para melhorar sua produtividade sem perder o controle do código? Caso aceite sugestões, sugerimos o Google Anti-Gravity ou o Cursor, mas lembre-se, a ferramenta deve te ajudar, mas a responsabilidade da entrega é sua.
 
 **Parte B: Diário de Bordo (Pessoal & Processo)**
 * **Turbulências:** Qual foi a maior dificuldade técnica ou de processo que enfrentou? (Seja honesto).
