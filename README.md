@@ -58,7 +58,7 @@ Evite as práticas que causaram a explosão da última nave:
 Para submeter sua solução, siga os passos abaixo:
 
 ### 1. Repositório
-Crie um repositório **público** no GitHub (ou privado e nos convide) com seu código.
+Crie um repositório **público** no GitHub e envie o link para "eduardo.andrade@digitalsys.com.br".
 
 ### 2. Relatório da Missão (`ARCHITECTURE.md`)
 Crie um arquivo chamado `ARCHITECTURE.md` na raiz do projeto. Ele deve conter:
